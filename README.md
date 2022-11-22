@@ -18,3 +18,8 @@ DATASET
 16: ActualWindProduction: actual wind energy production
 17: SystemLoadEP2: actual national system load 
 18: SMPEP2: the actual price of the electricity consumed (labels or values to be predicted)
+
+
+MODEL : RANDOM FOREST REGRESSOR 
+
+Random Forest Regression is a supervised learning algorithm that uses ensemble learning method for regression. 
